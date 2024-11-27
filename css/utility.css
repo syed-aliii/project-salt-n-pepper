@@ -23,6 +23,9 @@
 .j-between{
     justify-content: space-between;
 }
+.j-evenly{
+    justify-content: space-evenly;
+}
 
 .flex-wrap{
     flex-wrap: wrap;

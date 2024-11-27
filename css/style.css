@@ -112,7 +112,7 @@ font-family: "Poppins", sans-serif;
     font-size: 4rem;
     font-weight: 100;
     margin: 110px 0px 0px 0px;
-    background-color: #ffffff0f;
+    
 }
 .brand-text{
     font-size: 4rem;
@@ -203,4 +203,136 @@ font-family: "Poppins", sans-serif;
 }
 .simg{
     padding-right: 50px;
+}
+.heading-m{
+    margin-top: 170px;
+    margin-left: 380px;
+}
+.img-1{
+    width: 356px;
+}
+.img-2{
+    width: 370px;
+}
+.futurak2{
+    font-family: futurak;
+    font-size: 2rem;
+}
+.para3{
+    font-size: 1.2rem;
+    margin: 0px 0px 0px 50px;
+    color: #ffffffb3;
+}
+.parent2{
+    margin-left: -680px;
+    margin-top: 50px;
+}
+.parent-3{
+    margin-left: -680;
+}
+.parent4{
+    margin-left: 380px;
+    margin-top: 50px;
+}
+.h3{
+    margin-left: 380px;
+    margin-top: 50px;
+
+}
+.img11{
+    width: 597px;
+    margin-left: -70px;
+    margin-right: 0px;
+
+}
+.img-g{
+    margin-right: -200px;
+    margin-top: 60px;
+    color: #ffffffb3;
+
+}
+.get-btn2{
+    background-color: #28a745;
+    border: 0.5px solid white;
+    color: var(--white);
+    padding: 15px 30px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+    cursor: pointer;
+    margin: 40px 0px 0px 50px;
+}
+.fa-arrow-right2{
+    color: #28a745;
+}
+.h4{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.white{
+    background-color: #ffffff;
+    width: 355px;
+    height: 275px;
+}
+.clr-red{
+    color: #e71717;
+    font-size: 2rem;
+    font-weight: 50;
+}
+.f-size{
+    font-size: 2.2rem;
+}
+.boxes{
+
+    margin-top: 50px;
+   
+}
+.box1{
+    border: none;
+    border-radius: 6px;
+    
+}
+.box2{
+    margin:0px 20px ;
+    border: none;
+    border-radius: 6px;
+}
+.box3{
+    border: none;
+    border-radius: 6px;
+}
+.limg{
+    margin-top: 30px;
+}
+.red-isl2{
+    color: #e71717;
+    font-size: 1.3rem;
+    font-weight: 50;
+    margin-top: 40px;
+    
+}
+.boxses2{
+    margin-top: 10px;
+}
+.boxses3{
+    margin-top: 10px;
+    margin-left: 380px;
+}
+.boxl{
+    border: none;
+    border-radius: 6px;
+
+}
+.hs{
+    color: #212529;
+    margin-top: 100px;
+    padding-left: 430px;
+}
+.main{
+    margin-top: 50px;
+}
+.img-w{
+   width: 230px;
+}
+.fw{
+    margin: 0px 20px;
 }
