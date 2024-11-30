@@ -176,6 +176,9 @@ font-family: "Poppins", sans-serif;
     width: 500px;
     
 }
+.bkimg{
+    margin-left: 100px;
+}
 
 .bk-img{
    display: flex;
@@ -198,7 +201,7 @@ font-family: "Poppins", sans-serif;
     justify-content: left;
     align-items: start;
     flex-direction: column;
-    margin-left: -700px;
+    margin-left: -600px;
     margin-top: -300px;
 }
 .simg{
@@ -206,7 +209,7 @@ font-family: "Poppins", sans-serif;
 }
 .heading-m{
     margin-top: 170px;
-    margin-left: 380px;
+    margin-left: 330px;
 }
 .img-1{
     width: 356px;
@@ -222,6 +225,9 @@ font-family: "Poppins", sans-serif;
     font-size: 1.2rem;
     margin: 0px 0px 0px 50px;
     color: #ffffffb3;
+}
+.parent{
+    margin-left: -50px;
 }
 .parent2{
     margin-left: -680px;
@@ -284,8 +290,13 @@ font-family: "Poppins", sans-serif;
 .boxes{
 
     margin-top: 50px;
+    margin-left: -60px;
    
 }
+.boxses2{
+    margin-left: -60px;
+}
+
 .box1{
     border: none;
     border-radius: 6px;
@@ -315,7 +326,7 @@ font-family: "Poppins", sans-serif;
 }
 .boxses3{
     margin-top: 10px;
-    margin-left: 380px;
+    margin-left: 320px;
 }
 .boxl{
     border: none;
@@ -330,9 +341,10 @@ font-family: "Poppins", sans-serif;
 .main{
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: -50px;
 }
 .img-w{
-   width: 230px;
+   width: 210px;
 }
 .fw{
     margin: 0px 20px;
@@ -382,9 +394,10 @@ font-family: "Poppins", sans-serif;
 }
 .footer1{
     margin-top: 100px;
+    margin-left: 150px;
 }
 .d4{
-    margin-left: 150px;
+    margin-left: 80px;
 }
 .d3{
    margin-left: 80px;
@@ -407,6 +420,7 @@ font-family: "Poppins", sans-serif;
   margin-right: 900px;
   
 }
+
 .abouth1{
     font-size: 40px;
 }
@@ -565,17 +579,65 @@ margin-top: 50px;
  }
  .abk{
     position: absolute;
-    margin-top: -400px;
-    margin-left: -30px;
+    margin-top: -480px;
+    margin-left: -200px;
     
  }
 .footerabout{
     background-color: #ffffff0f;
+    
 }
  .fimg{
     width: 250px;
     height: 392px;
  }
- .last{
-    background-color: #000000;
+ .twitter{
+    margin-right: -19px;
  }
+ .fh1{
+    margin-top: 80px;
+ }
+.t1{
+    padding: 10px 36px 6px 12px;
+    width: 547px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.submit-btn{
+    background-color: #ffc107;
+    border: 1px solid #ffc107;
+    color: var(--white);
+    padding: 12px 30px 8px;
+    border-radius: 30px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+.sbtn{
+    margin-left: 110px;
+    margin-bottom: 70px;
+}
+.footer1{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.book1{
+    width: 544px;
+    border: thin solid white;
+}
+.book2{
+    width: 544px;
+    border: thin solid white;
+}
+.dbook1{
+    padding: 0px 12px;
+}
+.dbook2{
+    padding: 0px 12px;
+}
+.publicmain{
+   margin-top: 50px;
+}
+.pmain-2{
+margin-top: 50px;
+
+}
